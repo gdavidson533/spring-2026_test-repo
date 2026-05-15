@@ -1,2 +1,4 @@
 # spring-2026_test-repo
-Repo for testing out using git/github
+
+Spring 2026 
+repo for testing out git/git hub
